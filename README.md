@@ -40,3 +40,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akshat303&show_icons=true&locale=en&layout=compact" alt="akshat303" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akshat303&show_icons=true&locale=en" alt="akshat303" /></p>
+
+
+<img align="right" width="10%" alt="GIF" src="https://media.giphy.com/media/IPbS5R4fSUl5S/giphy.gif" />
