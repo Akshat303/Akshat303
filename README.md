@@ -39,7 +39,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akshat303&show_icons=true&locale=en&layout=compact" alt="akshat303" /></p>
 
-<p><img align="right" width="50%" alt="GIF" src="https://media.giphy.com/media/IPbS5R4fSUl5S/giphy.gif" /></p>
+<p><img align="right" width="35%" alt="GIF" src="https://media.giphy.com/media/IPbS5R4fSUl5S/giphy.gif" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akshat303&show_icons=true&locale=en" alt="akshat303" /></p>
 
