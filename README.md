@@ -24,7 +24,6 @@
 
 - 📫 How to reach me **sri303akshat@gmail.com**
 
-<p><img align="right" width="25%" height="25%" alt="GIF" src="https://media.giphy.com/media/26SdS6M9jzxdqq72JU/giphy.gif" /></p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/akshat303sri" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="akshat303sri" height="30" width="40" /></a>
@@ -40,5 +39,7 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akshat303&show_icons=true&locale=en&layout=compact" alt="akshat303" />
+  
+<p><img align="right" width="25%" height="25%" alt="GIF" src="https://media.giphy.com/media/26SdS6M9jzxdqq72JU/giphy.gif" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akshat303&show_icons=true&locale=en" alt="akshat303" /></p>
 
