@@ -11,7 +11,6 @@
 
 <p><a href="#"><img align="right" height="auto" src="https://media.giphy.com/media/3oEduOXu3DBfTazzaw/giphy.gif" height="175px"/></a></p>
 
-<p><img align="right" width="13%" height="25%" alt="GIF" src="https://media.giphy.com/media/26SdS6M9jzxdqq72JU/giphy.gif" /></p>
 
 - 🔭 I’m currently working on **new project idea**
 
@@ -25,6 +24,7 @@
 
 - 📫 How to reach me **sri303akshat@gmail.com**
 
+<p><img align="right" width="25%" height="25%" alt="GIF" src="https://media.giphy.com/media/26SdS6M9jzxdqq72JU/giphy.gif" /></p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/akshat303sri" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="akshat303sri" height="30" width="40" /></a>
