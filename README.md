@@ -40,4 +40,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akshat303&show_icons=true&locale=en&layout=compact" alt="akshat303" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akshat303&show_icons=true&locale=en" alt="akshat303" /></p>
 
-<p><img align="right" width="25%" height="25%" alt="GIF" src="https://media.giphy.com/media/26SdS6M9jzxdqq72JU/giphy.gif" /></p>
+<p><img align="right" width="15%" height="25%" alt="GIF" src="https://media.giphy.com/media/26SdS6M9jzxdqq72JU/giphy.gif" /></p>
