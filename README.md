@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm AKSHAT SRIVASTAVA</h1>
 
-<img align="center" width="60%" alt="GIF" src="https://media.giphy.com/media/CcwLAV11cALh3OuEJ5/giphy.gif" />
+<img align="center" width="100%" alt="GIF" src="https://media.giphy.com/media/CcwLAV11cALh3OuEJ5/giphy.gif" />
 
 <h3 align="center">I'm interested in problem-solving and learning new stuff. I would like to learn more about ML and AI. I am a computer science student. Here are some ideas to get you started:</h3>
 
