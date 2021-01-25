@@ -6,7 +6,7 @@
 
 <!---<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" /> --->
 
-<img align="right" width="75%" alt="GIF" src="https://media.giphy.com/media/CcwLAV11cALh3OuEJ5/giphy.gif" />
+<img align="right" width="5%" alt="GIF" src="https://media.giphy.com/media/CcwLAV11cALh3OuEJ5/giphy.gif" />
 
 
 <a href="#"><img align="right" width="75%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
