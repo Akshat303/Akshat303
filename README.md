@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm AKSHAT SRIVASTAVA</h1>
+
+<img align="center" width="60%" alt="GIF" src="https://media.giphy.com/media/CcwLAV11cALh3OuEJ5/giphy.gif" />
+
 <h3 align="center">I'm interested in problem-solving and learning new stuff. I would like to learn more about ML and AI. I am a computer science student. Here are some ideas to get you started:</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshat303&label=Profile%20views&color=0e75b6&style=flat" alt="akshat303" /> </p>
 
 
 <!---<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" /> --->
-
-<img align="right" width="50%" alt="GIF" src="https://media.giphy.com/media/CcwLAV11cALh3OuEJ5/giphy.gif" />
-
 
 <a href="#"><img align="right" width="70%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
