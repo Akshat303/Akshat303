@@ -3,8 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshat303&label=Profile%20views&color=0e75b6&style=flat" alt="akshat303" /> </p>
 
-
-[![Linkedin: Andreas Karabetian](https://img.shields.io/badge/-Andreas_Karabetian-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andreas-karabetian/)](https://www.linkedin.com/in/andreas-karabetian/) <img src="https://komarev.com/ghpvc/?username=adreaskar&color=yellow" alt="adreaskar" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/andreas-karabetian/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="andreas-karabetian" height="30" width="30" /></a>
+  <a href="https://www.facebook.com/adreas.karabetian" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="adreas.karabetian" height="30" width="30" /></a>
+  <a href="https://twitter.com/adreaskar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="adreaskar" height="30" width="30" /></a>
+  <!-- <a href="https://mega.nz/file/gR4D0aTL#6pGE_j2RlNpFiLDK2r0-Ff1UvtfCBx2OAKHZbsF8rsM" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/about-dot-me.svg" alt="adreaskar" height="30" width="30" /></a> -->
+</p>
 
 - 🔭 I’m currently working on **new project idea**
 
