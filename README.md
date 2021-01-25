@@ -3,7 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshat303&label=Profile%20views&color=0e75b6&style=flat" alt="akshat303" /> </p>
 
-  <img align="right" height="170em" src="https://github-readme-stats.vercel.app/api?username=Akshat303&&show_icons=true&title_color=ffffff&icon_color=ffdc40&text_color=ffffff&bg_color=151515">
+
+[![Linkedin: Andreas Karabetian](https://img.shields.io/badge/-Andreas_Karabetian-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andreas-karabetian/)](https://www.linkedin.com/in/andreas-karabetian/) <img src="https://komarev.com/ghpvc/?username=adreaskar&color=yellow" alt="adreaskar" />
 
 - 🔭 I’m currently working on **new project idea**
 
