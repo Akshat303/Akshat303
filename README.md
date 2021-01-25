@@ -3,11 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshat303&label=Profile%20views&color=0e75b6&style=flat" alt="akshat303" /> </p>
 
-<a href="https://github.com/adreaskar">
-  <img align="right" height="170em" src="https://github-readme-stats.vercel.app/api?username=adreaskar&&show_icons=true&title_color=ffffff&icon_color=ffdc40&text_color=ffffff&bg_color=151515">
 
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=adreaskar&theme=buefy&layout=compact&title_color=ffffff&bg_color=151515&text_color=FFFEFE">
-</a>
+![me](https://github.com/adreaskar/adreaskar/blob/master/resources/1.jpg?raw=true)
 
 - 🔭 I’m currently working on **new project idea**
 
