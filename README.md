@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshat303&label=Profile%20views&color=0e75b6&style=flat" alt="akshat303" /> </p>
 
 
-![me](https://github.com/akshat/akshat/blob/master/resources/1.jpg?raw=true)
+![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
 
 - 🔭 I’m currently working on **new project idea**
 
