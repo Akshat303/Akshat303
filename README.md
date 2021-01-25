@@ -9,7 +9,7 @@
 
 <!---<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" /> --->
 
-<a href="#"><img align="right" width="70%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<a href="#"><img align="right" height="auto" src="https://media.giphy.com/media/3oEduOXu3DBfTazzaw/giphy.gif" height="175px"/></a>
 
 
 - 🔭 I’m currently working on **new project idea**
