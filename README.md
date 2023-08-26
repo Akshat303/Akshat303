@@ -20,7 +20,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Akshat303?tab=repositories](https://github.com/Akshat303?tab=repositories)
 
-- 💬 Ask me about **MERN, MEAM, Python, web development & Any coding related query**
+- 💬 Ask me about **MERN, MEAN, web development, Python & Any coding related query**
 
 - 📫 How to reach me **sri303akshat@gmail.com**
 
